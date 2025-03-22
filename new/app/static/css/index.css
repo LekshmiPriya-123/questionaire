@@ -1,0 +1,31 @@
+.sub{
+    padding: 20%;
+}
+.container {
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    background-color: bisque;
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.new{
+    background-color: rgb(5, 85, 112);
+}
+.reg{
+    padding: 20%;
+}
+.buttons{
+    padding: 5%;
+}
+
+
